@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0141/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四部律并論要用抄
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2795.xml
+    old_id: T85n2795
+hash: sha256:bdfa7e8b8ef346e36657e7d2a9b0717a0a8d96021b9670795e82ea07c5045ed8

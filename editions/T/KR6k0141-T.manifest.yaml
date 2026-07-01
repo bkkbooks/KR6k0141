@@ -1,0 +1,220 @@
+canonical_identifier: bkk:krp/KR6k0141/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0141/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四部律并論要用抄
+  identifiers:
+    krp: KR6k0141
+    cbeta: T85n2795
+    cbeta_old_id: T85n2795
+    authorityid: CA0004815
+    json_key: T2795
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2795.xml
+    old_id: T85n2795
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0141_000-T.yaml, hash: 'sha256:bdfa7e8b8ef346e36657e7d2a9b0717a0a8d96021b9670795e82ea07c5045ed8'}
+  - {seq: 1, filename: KR6k0141_001-T.yaml, hash: 'sha256:02e7587906cb56303c4779b574726c4eea80104480a6ff20ca44e91333389542'}
+  - {seq: 2, filename: KR6k0141_002-T.yaml, hash: 'sha256:beca2e1b5f4420979e72681053d749bc628f6c31c2316e8e39a9aa81152c7bd8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0141_000-T.markers.yaml, hash: 'sha256:4ec16068a73548dd6d668cd05355ed6e486284768bd9a28a83367f630a87e65d'}
+  - {seq: 1, role: markers, filename: assets/KR6k0141_001-T.markers.yaml, hash: 'sha256:168e5e7ca76e75dddb38cfc98c56172abfdbaab364cbc27ac97d92aeeb9a7e21'}
+  - {seq: 2, role: markers, filename: assets/KR6k0141_002-T.markers.yaml, hash: 'sha256:d07528b19b218c17df4dc02015f57e1d2301294c2d223833838094007dcda058'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0141_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 22022
+  label: 四部律并論要用抄卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0141_T_001-mulu-1
+    span:
+    - body
+    - 146
+    - 146
+  label: 1 戒律緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0141_T_001-mulu-2
+    span:
+    - body
+    - 921
+    - 921
+  label: 2 四部律及論明受戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0141_T_001-mulu-3
+    span:
+    - body
+    - 4927
+    - 4927
+  label: 3 四部律及論明結界法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0141_T_001-mulu-4
+    span:
+    - body
+    - 6457
+    - 6457
+  label: 4 四部律及論明羯磨法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0141_T_001-mulu-5
+    span:
+    - body
+    - 8163
+    - 8163
+  label: 5 說戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0141_T_001-mulu-6
+    span:
+    - body
+    - 8726
+    - 8726
+  label: 6 四部律明安居及受日法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0141_T_001-mulu-7
+    span:
+    - body
+    - 10779
+    - 10779
+  label: 7 自恣法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0141_T_001-mulu-8
+    span:
+    - body
+    - 11207
+    - 11207
+  label: 8 四部律及論明衣法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0141_T_001-mulu-9
+    span:
+    - body
+    - 13697
+    - 13697
+  label: 9 功德衣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0141_T_001-mulu-10
+    span:
+    - body
+    - 14239
+    - 14239
+  label: 10 四部律及論明淨地護淨方法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0141_T_001-mulu-11
+    span:
+    - body
+    - 18443
+    - 18443
+  label: 11 匡究僧徒同住眾法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0141_T_001-mulu-12
+    span:
+    - body
+    - 19247
+    - 19247
+  label: 12 四部律及論明三寶物義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0141_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 20822
+  label: 四部律并論要用抄卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0141_T_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 13 四部律及論明亡比丘輕重物看病囑授法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0141_T_002-mulu-2
+    span:
+    - body
+    - 7773
+    - 7773
+  label: 14 四部律及論明五篇七聚持犯輕重
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0141_T_002-mulu-3
+    span:
+    - body
+    - 17956
+    - 17956
+  label: 15 除懺悔法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0141_T_002-mulu-4
+    span:
+    - body
+    - 18692
+    - 18692
+  label: 16 會通諸律違負
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0141_T_002-mulu-5
+    span:
+    - body
+    - 19552
+    - 19552
+  label: 17 諸部威儀雜法
+  type: mulu
+  level: 1
+hash: sha256:135210967c894e2e0f0eb6ae5b1483b687b95c87be34ddeeae9c9d229aaac978
